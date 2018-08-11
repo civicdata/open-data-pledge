@@ -88,3 +88,42 @@
 
 * Michael Bowman (D)
 * Barbara Holsclaw (i) (R)
+
+# School Board
+
+### District 3
+
+* James Craig
+    + 11000 FOX MOORE CT, LOUISVILLE, KY 40223-5530
+
+### District 6
+
+* Angela Smith
+    + 5104 RED OAK LN, LOUISVILLE, KY 40218
+
+* Christopher Garr
+    + 6406 GREEN MANOR DR, LOUISVILLE, KY 40228
+
+* Corrie Shull
+    + 7630 PAULS VIEW PL, LOUISVILLE, KY 40228
+
+* Waymen Eddings
+    + 4010 POPLAR LEVEL RD, LOUISVILLE, KY 40213
+
+# Anchorage School Board
+
+### District 1
+
+* Colleen Kelly Abate
+    + 804 N ARBOR DR, LOUISVILLE, KY 40223
+
+* Rosanna GABRIELE
+    + 1111 BELLEWOOD RD, LOUISVILLE, KY 40223-2582
+
+* Wendell W. HARRIS
+    + 608 N ARBOR DR, LOUISVILLE, KY 40223
+
+### District 2
+
+* Robert T. WATSON
+    + 12200 RIDGE RD, LOUISVILLE, KY 40223-2242
