@@ -1,14 +1,12 @@
 # INTRODUCTION
-The Civic Data Alliance (http://www.civicdataalliance.org) is a group of designers, academic researchers, data journalists, activists, policy wonks, web developers and curious citizens who strive to make our city more just, equitable, transparent and delightful to live in through data, design and technology. 
+The Civic Data Alliance (http://www.civicdataalliance.org) is a group of concerned citizens who strive to make our city more just, equitable, transparent and delightful to live in through data, design and technology. 
 
 We volunteer to build tools to support and serve the public good. Open government data makes it possible for us to do this work. 
 
 # PLEDGE
-Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies.
+Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies. The data which **INSERT OFFICE HERE** oversees is critical for the public. I recognize that providing access to public data creates a transparent and accountable government.
 
-The **INSERT OFFICE HERE** oversees a wide variety of data that are critical for the public to have access to. I recognize that providing access to public data creates a transparent and accountable government and that timely, public data from the **INSERT OFFICE HERE** is critical to the judicial process.
-
-If I am elected I will adopt and provide funding for an open data policy that includes a presumption of openness [1][2] and release all of my office’s data  – including data provided from contractors – to the extent permitted by law and subject to valid privacy, confidentiality, security, or other restrictions. It should be opened according to the eight principles of open government data [3].
+If I am elected I will support an open data policy that includes a presumption of openness [1][2] and will work towards releasing all of my office’s data to the extent permitted by law and subject to valid privacy, confidentiality, security, or other restrictions. I will strive to follow the eight principles of open government data [3].
 
 [1] Louisville Metro Government Executive Order No. 1, Series 2013: Creating an Open Data Plan, accessed April 8, 2018 `https://louisvilleky.gov/government/mayor-greg-fischer/read-open-data-executive-order` 
 
