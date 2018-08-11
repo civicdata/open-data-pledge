@@ -4,9 +4,11 @@ The Civic Data Alliance (http://www.civicdataalliance.org) is a group of engaged
 We volunteer to build tools to support and serve the public good. Open government data makes it possible for us to do this work. 
 
 # PLEDGE
-Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies. The data which **INSERT OFFICE HERE** oversees is critical for the public. I recognize that providing access to public data creates a transparent and accountable government.
+Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies. The data which the office of the Mayor oversees is critical for the public. I recognize that providing access to public data creates a transparent and accountable government.
 
 If I am elected I will support an open data policy that includes a presumption of openness [1][2] and will work towards releasing my office’s data to the extent permitted by law and subject to valid privacy, confidentiality, security, or other restrictions. I will strive to follow the eight principles of open government data [3].
+
+Specifically, as a candidate for Mayor of Metro Louisville, I pledge to support an open data ordinance which codifies into law the open data practices described in **EXECUTIVE ORDER NO. 1, SERIES 2013**. 
 
 [1] Louisville Metro Government Executive Order No. 1, Series 2013: Creating an Open Data Plan, accessed April 8, 2018 `https://louisvilleky.gov/government/mayor-greg-fischer/read-open-data-executive-order` 
 

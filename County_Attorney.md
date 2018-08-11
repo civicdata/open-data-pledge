@@ -4,7 +4,7 @@ The Civic Data Alliance (http://www.civicdataalliance.org) is a group of engaged
 We volunteer to build tools to support and serve the public good. Open government data makes it possible for us to do this work. 
 
 # PLEDGE
-Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies. The data which **INSERT OFFICE HERE** oversees is critical for the public. I recognize that providing access to public data creates a transparent and accountable government.
+Releasing open data is essential for government to be transparent and accountable to its constituents. It provides the public with information they need and are legally entitled to without having to request individual records. Open data is a proactive way to share data with citizens, reporters, and other government agencies. The data which the County Attorney oversees is critical for the public. I recognize that providing access to public data creates a transparent and accountable government.
 
 If I am elected I will support an open data policy that includes a presumption of openness [1][2] and will work towards releasing my office’s data to the extent permitted by law and subject to valid privacy, confidentiality, security, or other restrictions. I will strive to follow the eight principles of open government data [3].
 
